@@ -1,2 +1,3 @@
 # software-testing-course
-This repository is created for Labs at software testing course
+
+БГУ ММФ 3 курс 9 группа  Шишкарёв Иван 
