@@ -10,7 +10,7 @@
 
 Сообщение "Ошибка" при следующих значениях поля "Электронный адрес":
 - '' // пустая строка
-- !@#$%^&*()_+{}[]<>/?@bsu.by
+- !@#$%^&*()+{}[]<>/?@bsu.by
 - s@bsu.by
 - someLongLoginSomeLongLoginSomeLongLoginSomeLongLogi@bsu.by
 - someWrongLogin!@bsu.by
